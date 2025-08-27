@@ -1,0 +1,12 @@
+2025/08/26-10:22:30.308 492 Reusing MANIFEST /home/choungion/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/26-10:22:30.308 492 Recovering log #27
+2025/08/26-10:22:30.323 492 Reusing old log /home/choungion/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000027.log 
+2025/08/26-11:12:32.927 47c Level-0 table #33: started
+2025/08/26-11:12:32.933 47c Level-0 table #33: 920018 bytes OK
+2025/08/26-11:12:32.935 47c Delete type=0 #27
+2025/08/26-14:47:33.540 470 Compacting 1@1 + 1@2 files
+2025/08/26-14:47:33.543 470 Generated table #34@1: 164 keys, 66818 bytes
+2025/08/26-14:47:33.544 470 Compacted 1@1 + 1@2 files => 66818 bytes
+2025/08/26-14:47:33.544 470 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/26-14:47:33.544 470 Delete type=2 #33
+2025/08/26-14:47:33.544 470 Delete type=2 #30

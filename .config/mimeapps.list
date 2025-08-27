@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/tidal=tidal-hifi.desktop
+x-scheme-handler/msteams=teams.desktop
