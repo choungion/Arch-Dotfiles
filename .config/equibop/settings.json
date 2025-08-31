@@ -5,5 +5,9 @@
     "arRPC": true,
     "trayColor": "",
     "trayMainOverride": false,
-    "splashColor": "rgb(223, 224, 226)"
+    "splashColor": "rgb(206, 214, 227)",
+    "customTitleBar": false,
+    "staticTitle": true,
+    "trayColorType": "default",
+    "splashBackground": "rgb(64, 72, 89)"
 }

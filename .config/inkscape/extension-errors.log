@@ -16,12 +16,6 @@ Dependency:
 	location: path
 	string: scribus
 
-Extension "Optimized PNG" failed to load because a dependency was not met.
-Dependency:
-	type: executable
-	location: path
-	string: optipng
-
 Extension "XFIG Input" failed to load because a dependency was not met.
 Dependency:
 	type: executable

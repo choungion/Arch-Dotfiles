@@ -1,5 +1,3 @@
-2025/08/26-15:17:35.830 5307 Creating DB /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage since it was missing.
-2025/08/26-15:17:35.832 5307 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/MANIFEST-000001
-2025/08/26-15:19:35.833 5308 Level-0 table #5: started
-2025/08/26-15:19:35.834 5308 Level-0 table #5: 16077 bytes OK
-2025/08/26-15:19:35.835 5308 Delete type=0 #3
+2025/08/30-21:29:30.704 b644 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/MANIFEST-000001
+2025/08/30-21:29:30.704 b644 Recovering log #7
+2025/08/30-21:29:30.704 b644 Reusing old log /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/000007.log 

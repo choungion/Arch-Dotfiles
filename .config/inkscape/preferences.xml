@@ -304,7 +304,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px" />
+       unit="mm" />
     <eventcontext
        id="text"
        usecurrent="1"
@@ -394,7 +394,8 @@
     <eventcontext
        id="connector"
        style="fill:none;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-linejoin:miter;stroke-width:1px;stroke-linecap:butt;"
-       selcue="1" />
+       selcue="1"
+       curvature="0" />
     <eventcontext
        id="paintbucket"
        style="fill:#a0a0a0;stroke:none;"
@@ -547,6 +548,8 @@
     <group
        id="CMS"
        visible="1" />
+    <group
+       id="OKHSL" />
   </group>
   <group
      id="embedded">
@@ -724,7 +727,7 @@
        value="12" />
     <group
        id="cursortolerance"
-       value="8.0" />
+       value="8" />
     <group
        id="dragtolerance"
        value="4.0" />
@@ -1012,8 +1015,8 @@
      id="desktop"
      style="fill:#000000;text-orientation:auto">
     <group
-       width="990"
-       height="519"
+       width="1908"
+       height="1034"
        x="0"
        y="0"
        maximized="1"

@@ -4,7 +4,9 @@
     "useQuickCss": true,
     "themeLinks": [],
     "eagerPatches": false,
-    "enabledThemes": [],
+    "enabledThemes": [
+        "nordic.theme.css"
+    ],
     "enabledThemeLinks": [],
     "enableReactDevtools": false,
     "frameless": false,
@@ -1113,6 +1115,29 @@
         },
         "BadgeAPI": {
             "enabled": true
+        },
+        "NoTrack": {
+            "enabled": true,
+            "disableAnalytics": true
+        },
+        "VCSupport": {
+            "enabled": true
+        },
+        "Settings": {
+            "enabled": true,
+            "settingsLocation": "aboveNitro"
+        },
+        "DisableDeepLinks": {
+            "enabled": true
+        },
+        "EquicordHelper": {
+            "enabled": true
+        },
+        "SupportHelper": {
+            "enabled": true
+        },
+        "WebContextMenus": {
+            "enabled": true
         }
     },
     "notifications": {
@@ -1125,7 +1150,7 @@
         "authenticated": false,
         "url": "https://cloud.equicord.org/",
         "settingsSync": false,
-        "settingsSyncVersion": 1756061655182
+        "settingsSyncVersion": 1756352885830
     },
     "ignoreResetWarning": false,
     "userCssVars": {}

@@ -1,14 +1,18 @@
 export ZSH="$HOME/.oh-my-zsh"
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=blue'
+#export PATH="/home/choungion/.local/share/gem/ruby/3.4.0"
+
+eval "$(starship init zsh)"
 
 ZSH_THEME="robbyrussell"
 plugins=(git sudo pip docker zsh-syntax-highlighting zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
-
-
-
 source ~/.bash_aliases
+
+typeset -A ZSH_HIGHLIGHT_STYLES
+ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=001'
+ZSH_HIGHLIGHT_STYLES[command]='fg=006'
 
 # zsh-autosuggestions mapping
 # ALT+a to accept completion
@@ -25,3 +29,9 @@ PERL_MM_OPT="INSTALL_BASE=/home/choungion/perl5"; export PERL_MM_OPT;
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.Arch-Dotfiles-Git/.git/ --work-tree=$HOME'
 alias update-dotfiles='dotfiles commit -am "Update" && dotfiles push -u origin main'
+
+## [Completion]
+## Completion scripts setup. Remove the following line to uninstall
+[[ -f /home/choungion/.config/.dart-cli-completion/zsh-config.zsh ]] && . /home/choungion/.config/.dart-cli-completion/zsh-config.zsh || true
+## [/Completion]
+

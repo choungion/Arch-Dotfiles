@@ -19,30 +19,29 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#2e3440",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "titleBarBorder": "#2b2b2b",
-            "activityBarBackground": "#181818",
-            "activityBarBorder": "#2b2b2b",
-            "sideBarBackground": "#181818",
-            "sideBarBorder": "#2b2b2b",
-            "statusBarBackground": "#181818",
-            "statusBarBorder": "#2b2b2b",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "foreground": "#d8dee9",
+            "background": "#2e3440",
+            "editorBackground": "#2e3440",
+            "titleBarBackground": "#2e3440",
+            "titleBarBorder": "rgba(46, 52, 64, 0)",
+            "activityBarBackground": "#2e3440",
+            "sideBarBackground": "#2e3440",
+            "sideBarBorder": "#3b4252",
+            "statusBarBackground": "#3b4252",
+            "statusBarBorder": "rgba(59, 66, 82, 0)",
+            "statusBarNoFolderBackground": "#3b4252"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -52,11 +51,11 @@
         "lastActiveWindow": {
             "backupPath": "/home/choungion/.config/VSCodium/Backups/1756001488965",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 0,
-                "width": 480,
-                "height": 522
+                "mode": 1,
+                "x": 6,
+                "y": 40,
+                "width": 948,
+                "height": 1034
             }
         },
         "openedWindows": []

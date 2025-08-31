@@ -18,12 +18,12 @@ until pgrep -f 'xdg-desktop-portal-hyprland'; do sleep 2; done
 
 waybar_loop &
 
-tidal-hifi &
-
-sleep 1
-
 equibop &
+kdeconnect-indicator &
+sleep 2
 
+tidal-hifi &
+steam &
 nm-applet --indicator &
 XDG_CURRENT_DESKTOP=gnome 
 blueman-applet &

@@ -8,11 +8,13 @@
 		"port": 47836,
 		"hostname": "127.0.0.1"
 	},
-	"customCSS": [],
+	"customCSS": [
+		""
+	],
 	"disableBackgroundThrottle": true,
 	"disableHardwareMediaKeys": false,
 	"enableCustomHotkeys": false,
-	"enableDiscord": false,
+	"enableDiscord": true,
 	"discord": {
 		"showSong": true,
 		"showIdle": true,
@@ -34,7 +36,7 @@
 		"gpuRasterization": true
 	},
 	"menuBar": true,
-	"minimizeOnClose": false,
+	"minimizeOnClose": true,
 	"mpris": false,
 	"notifications": true,
 	"playBackControl": true,
@@ -48,12 +50,12 @@
 	"trayIcon": true,
 	"updateFrequency": 500,
 	"windowBounds": {
-		"width": 1070,
-		"height": 933
+		"width": 1068,
+		"height": 931
 	},
 	"__internal__": {
 		"migrations": {
-			"version": "5.20.0"
+			"version": "5.20.1"
 		}
 	}
 }
