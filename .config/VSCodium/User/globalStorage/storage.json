@@ -4,19 +4,21 @@
     "telemetry.devDeviceId": "b92a7a86-7547-45f0-a602-b9b59407bf0f",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1756001488965"
+                "folderUri": "file:///home/choungion/Documents/Proyectos/Java/IntroPrograExtraClase1"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1756001488965": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/choungion/Documents/Proyectos/Java/PrimeraClaseIntroProgra": "__default__profile__",
+            "file:///home/choungion/Documents/Proyectos/Java/IntroPrograEjercicio1": "__default__profile__",
+            "file:///home/choungion/Documents/Proyectos/Java/IntroPrograExtraClase1": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "theme": "vs-dark",
     "themeBackground": "#2e3440",
@@ -49,15 +51,40 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/choungion/.config/VSCodium/Backups/1756001488965",
+            "folder": "file:///home/choungion/Documents/Proyectos/Java/IntroPrograExtraClase1",
+            "backupPath": "/home/choungion/.config/VSCodium/Backups/6df2c95f33d692b6906d299652d3e4d2",
             "uiState": {
-                "mode": 1,
-                "x": 6,
-                "y": 40,
-                "width": 948,
-                "height": 1034
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1080,
+                "height": 943
             }
         },
         "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "4bce8918f60cd76e06f05304097888be": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3b4c157cc02a35c5ed2822c3e8ee4683": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "254a19045f988c16b846af8f73cdfc4c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ef8a987bdac39c5ea12772421fc389df": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
     }
 }

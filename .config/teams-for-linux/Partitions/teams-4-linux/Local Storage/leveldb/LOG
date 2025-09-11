@@ -1,30 +1,33 @@
-2025/08/30-21:29:29.800 b644 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
-2025/08/30-21:29:29.800 b644 Recovering log #69
-2025/08/30-21:29:29.801 b644 Level-0 table #73: started
-2025/08/30-21:29:29.803 b644 Level-0 table #73: 113264 bytes OK
-2025/08/30-21:29:29.803 b644 Recovering log #72
-2025/08/30-21:29:29.804 b644 Level-0 table #74: started
-2025/08/30-21:29:29.805 b644 Level-0 table #74: 76835 bytes OK
-2025/08/30-21:29:29.806 b644 Delete type=0 #72
-2025/08/30-21:29:29.806 b644 Delete type=0 #69
-2025/08/30-21:29:49.366 b645 Level-0 table #77: started
-2025/08/30-21:29:49.367 b645 Level-0 table #77: 28990 bytes OK
-2025/08/30-21:29:49.368 b645 Delete type=0 #75
-2025/08/30-21:36:30.705 b645 Level-0 table #79: started
-2025/08/30-21:36:30.706 b645 Level-0 table #79: 16470 bytes OK
-2025/08/30-21:36:30.706 b645 Delete type=0 #76
-2025/08/30-21:36:30.707 b645 Compacting 4@0 + 1@1 files
-2025/08/30-21:36:30.708 b645 Generated table #80@0: 77 keys, 93322 bytes
-2025/08/30-21:36:30.708 b645 Compacted 4@0 + 1@1 files => 93322 bytes
-2025/08/30-21:36:30.709 b645 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/30-21:36:30.709 b645 Delete type=2 #79
-2025/08/30-21:36:30.709 b645 Delete type=2 #71
-2025/08/30-21:36:30.709 b645 Delete type=2 #74
-2025/08/30-21:36:30.709 b645 Delete type=2 #73
-2025/08/30-21:36:30.709 b645 Delete type=2 #77
-2025/08/30-22:15:30.705 b645 Level-0 table #82: started
-2025/08/30-22:15:30.743 b645 Level-0 table #82: 9026 bytes OK
-2025/08/30-22:15:30.743 b645 Delete type=0 #78
-2025/08/30-22:46:30.704 b645 Level-0 table #84: started
-2025/08/30-22:46:30.742 b645 Level-0 table #84: 11869 bytes OK
-2025/08/30-22:46:30.744 b645 Delete type=0 #81
+2025/09/11-17:24:57.009 cd7 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2025/09/11-17:24:57.012 cd7 Recovering log #1017
+2025/09/11-17:24:57.013 cd7 Reusing old log /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/001017.log 
+2025/09/11-17:25:57.017 cd8 Level-0 table #1022: started
+2025/09/11-17:25:57.018 cd8 Level-0 table #1022: 99850 bytes OK
+2025/09/11-17:25:57.019 cd8 Delete type=0 #1017
+2025/09/11-17:26:58.026 cd8 Level-0 table #1024: started
+2025/09/11-17:26:58.027 cd8 Level-0 table #1024: 43563 bytes OK
+2025/09/11-17:26:58.027 cd8 Delete type=0 #1021
+2025/09/11-17:33:26.501 cd8 Level-0 table #1026: started
+2025/09/11-17:33:26.539 cd8 Level-0 table #1026: 83228 bytes OK
+2025/09/11-17:33:26.540 cd8 Delete type=0 #1023
+2025/09/11-17:45:03.916 cd8 Level-0 table #1028: started
+2025/09/11-17:45:03.917 cd8 Level-0 table #1028: 108965 bytes OK
+2025/09/11-17:45:03.918 cd8 Delete type=0 #1025
+2025/09/11-17:45:03.918 cd8 Compacting 4@0 + 1@1 files
+2025/09/11-17:45:03.920 cd8 Generated table #1029@0: 200 keys, 248283 bytes
+2025/09/11-17:45:03.920 cd8 Compacted 4@0 + 1@1 files => 248283 bytes
+2025/09/11-17:45:03.920 cd8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/11-17:45:03.920 cd8 Delete type=2 #1024
+2025/09/11-17:45:03.920 cd8 Delete type=2 #1026
+2025/09/11-17:45:03.920 cd8 Delete type=2 #1019
+2025/09/11-17:45:03.920 cd8 Delete type=2 #1028
+2025/09/11-17:45:03.920 cd8 Delete type=2 #1022
+2025/09/11-17:51:17.303 cd8 Level-0 table #1031: started
+2025/09/11-17:51:17.304 cd8 Level-0 table #1031: 104206 bytes OK
+2025/09/11-17:51:17.304 cd8 Delete type=0 #1027
+2025/09/11-17:54:26.920 d3c Level-0 table #1033: started
+2025/09/11-17:54:26.958 d3c Level-0 table #1033: 92060 bytes OK
+2025/09/11-17:54:26.959 d3c Delete type=0 #1030
+2025/09/11-17:54:40.798 cd8 Level-0 table #1035: started
+2025/09/11-17:54:40.810 cd8 Level-0 table #1035: 103644 bytes OK
+2025/09/11-17:54:40.812 cd8 Delete type=0 #1032

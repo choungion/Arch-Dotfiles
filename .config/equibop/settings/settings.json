@@ -828,9 +828,6 @@
         "MediaPlaybackSpeed": {
             "enabled": false
         },
-        "Meow": {
-            "enabled": false
-        },
         "MessageBurst": {
             "enabled": false
         },
@@ -1138,6 +1135,9 @@
         },
         "WebContextMenus": {
             "enabled": true
+        },
+        "ChatButtonsPlus": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -1150,8 +1150,9 @@
         "authenticated": false,
         "url": "https://cloud.equicord.org/",
         "settingsSync": false,
-        "settingsSyncVersion": 1756352885830
+        "settingsSyncVersion": 1757269386991
     },
     "ignoreResetWarning": false,
-    "userCssVars": {}
+    "userCssVars": {},
+    "themeNames": {}
 }

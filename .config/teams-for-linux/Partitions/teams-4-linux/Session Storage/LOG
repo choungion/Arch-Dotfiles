@@ -1,3 +1,9 @@
-2025/08/30-21:29:30.704 b644 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/MANIFEST-000001
-2025/08/30-21:29:30.704 b644 Recovering log #7
-2025/08/30-21:29:30.704 b644 Reusing old log /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/000007.log 
+2025/09/11-17:24:58.027 cd7 Reusing MANIFEST /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/MANIFEST-000001
+2025/09/11-17:24:58.028 cd7 Recovering log #64
+2025/09/11-17:24:58.030 cd7 Reusing old log /home/choungion/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/000064.log 
+2025/09/11-17:25:58.036 cd8 Level-0 table #67: started
+2025/09/11-17:25:58.036 cd8 Level-0 table #67: 20682 bytes OK
+2025/09/11-17:25:58.037 cd8 Delete type=0 #64
+2025/09/11-17:54:37.769 cd8 Level-0 table #69: started
+2025/09/11-17:54:37.773 cd8 Level-0 table #69: 20062 bytes OK
+2025/09/11-17:54:37.778 cd8 Delete type=0 #66
